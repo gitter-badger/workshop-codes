@@ -2,7 +2,7 @@
 
 Here are noted links for required softwares for bootcamp. Please make sure to download and install them
 
-## Common
+## Common ( Compulsory for all )
 * [Libgdx Setup App](https://libgdx.badlogicgames.com/nightlies/dist/gdx-setup.jar).
 * [Oracle Java 8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html).
 
@@ -17,5 +17,5 @@ Here are noted links for required softwares for bootcamp. Please make sure to do
 
 
 ## Also some things to take care
-* __Please report half hour prior if any software installation is stuck__
-* __Please bring your laptop__
+* Please report half hour prior if any software installation is stuck
+* Please bring your laptop
